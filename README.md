@@ -13,11 +13,11 @@
   <li>Ship</li>
   <li>Truck</li>
 
-  </ul>
-*I have used Convolutional Neural Networks for detetction of the objects*
-*This is a Multi class classification task where we use softmax function instead of Sigmoid*
+  </ul><br>
+- *I have used Convolutional Neural Networks for detetction of the objects*
+- *This is a Multi class classification task where we use softmax function instead of Sigmoid*
 ## Look over the function
-<span><img src="https://www.gstatic.com/education/formulas2/355397047/en/softmax_function.svg" /> </span>
-*The model approximately took three hours of training and gave an accuracy of `90%`*
+<span><img src="https://www.gstatic.com/education/formulas2/355397047/en/softmax_function.svg" /> </span><br>
+- *The model approximately took three hours of training and gave an accuracy of `90%`*
 
 
