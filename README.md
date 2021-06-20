@@ -18,7 +18,7 @@
 
   </ul><br>
   
-- *I have used Convolutional Neural Networks for detetction of the objects.*
+- *I have used Convolutional Neural Networks for the detetction of objects.*
 
 - *This is a Multi class classification task where we use softmax function instead of Sigmoid.*
 
