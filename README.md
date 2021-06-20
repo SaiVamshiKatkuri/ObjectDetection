@@ -1,7 +1,7 @@
 # Hey Folks!
 ## ObjectDetection using CNN
 - **The project is based on the dataset CIFAR-10 that consists of 60000 images with 10 different objects in it.**
-** Classes in the dataset**
+- **Classes in the dataset**
 <ul>
   <li>Automobile</li>
   <li>Bird</li>
