@@ -24,5 +24,6 @@
 <span><img src="https://www.gstatic.com/education/formulas2/355397047/en/softmax_function.svg" /> </span><br>
 
 - *The model approximately took three hours of training and gave an accuracy of `90%`*
+- *For more reference check out* [Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 
 
