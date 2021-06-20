@@ -14,6 +14,7 @@
   <li>Truck</li>
 
   </ul><br>
+  
 - *I have used Convolutional Neural Networks for detetction of the objects.*
 
 - *This is a Multi class classification task where we use softmax function instead of Sigmoid.*
