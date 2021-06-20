@@ -3,7 +3,7 @@
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
 - **The project is based on the dataset CIFAR-10 that consists of 60000 images with 10 different objects in it.**
-- 
+
 - **Classes in the dataset**
 <ul>
   <li>Automobile</li>
